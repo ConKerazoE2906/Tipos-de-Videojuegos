@@ -12,4 +12,10 @@ public class TiposDeVideojuegos {
     public void setGenero(String genero) {
         Genero = genero;
     }
+    public void imprimirGenero(){
+        System.out.println("El origen de los videojuegos proviene de distintos lenguajes de programacion como C++, Java, etc.");
+    }
 }
+
+
+
